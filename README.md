@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/akash-sahoo-620087231//)
+[![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Akash--01629954/)](https://www.linkedin.com/in/akash-sahoo-620087231//)
 [![Website Badge](https://img.shields.io/badge/WebSite-Akash-green)]( https://akashsahoo1999.github.io/akashprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Akash-yellow)](https://stackoverflow.com/users/18258973/akash-kumar-sahoo)
 
